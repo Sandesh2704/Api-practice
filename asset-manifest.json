@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandesh2704/Api-practice.git/static/css/main.e1a06130.css",
+    "main.js": "/Sandesh2704/Api-practice.git/static/js/main.e94cb3f8.js",
+    "static/js/453.65fd3732.chunk.js": "/Sandesh2704/Api-practice.git/static/js/453.65fd3732.chunk.js",
+    "index.html": "/Sandesh2704/Api-practice.git/index.html",
+    "main.e1a06130.css.map": "/Sandesh2704/Api-practice.git/static/css/main.e1a06130.css.map",
+    "main.e94cb3f8.js.map": "/Sandesh2704/Api-practice.git/static/js/main.e94cb3f8.js.map",
+    "453.65fd3732.chunk.js.map": "/Sandesh2704/Api-practice.git/static/js/453.65fd3732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a06130.css",
+    "static/js/main.e94cb3f8.js"
+  ]
+}
